@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-English is my first language and I am quite good at spotting (and fixing):
+English is my first language and I like to fix:
 - typos,
 - unclear text, and
 - ambiguous explanations.
