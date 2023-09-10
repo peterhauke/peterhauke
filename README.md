@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-English is my first language and I like to fix:
-- typos,
-- unclear text, and
-- ambiguous explanations.
-
-As a developer, I am competent and I use or am familiar with the following:
+I use or am familiar with the following:
 
 ### Back-end
 
