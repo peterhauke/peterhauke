@@ -34,6 +34,9 @@ I use or am familiar with the following:
 - ⚡ Fun fact: ...
 -->
 
+> [!NOTE]
+> I have worked with many other technologies as well, more than I can remember, and many that I have forgotten!
+
 [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peterhauke)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
